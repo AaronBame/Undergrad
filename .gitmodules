@@ -1,0 +1,6 @@
+[submodule "Elec_chem"]
+	path = Elec_chem
+	url = https://git.overleaf.com/15179057frphgswrttpp
+[submodule "Evangelion"]
+	path = Evangelion
+	url = https://git.overleaf.com/15380339xwzmjqkypcnk
